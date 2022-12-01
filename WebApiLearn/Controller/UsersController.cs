@@ -18,6 +18,7 @@ namespace WebApiLearn.Controller
             return new List<User> { 
             new User{Name="Ahmad", Age=39, Id=1},
             new User{Name="Omar", Age=39, Id=2},
+            new User{Name="Jameel", Age=34, Id=3}
 
             };
         }
